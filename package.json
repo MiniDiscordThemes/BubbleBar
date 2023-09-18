@@ -1,25 +1,33 @@
 {
-  "name": "bubble-bar",
-  "version": "1.0.0",
+  "name": "bubblebar-discord-theme",
+  "version": "2.1.0",
   "description": "A nice, rounded, bubbly chatbar.",
-  "engines": {
-    "node": ">=18.0.0"
-  },
+  "repository": "github:MiniDiscordThemes/BubbleBar",
+  "author": "Saltssaumure <themes@saltssaumure.net>",
+  "contributors": [
+    "LuckFire",
+    "Loremly",
+    "Saltssaumure <themes@saltssaumure.net>"
+  ],
+  "license": "MIT",
+  "private": true,
   "scripts": {
-    "build": "replugged build theme",
-    "watch": "replugged build theme --watch",
-    "bundle": "replugged bundle theme",
-    "lint": "prettier ./src --check",
-    "lint:fix": "prettier ./src --write",
+    "dev": "bd-scss dev",
+    "dev:rp": "replugged build theme --watch",
+    "dev:vc": "bd-scss dev:vc",
+    "rp": "replugged bundle theme",
+    "lint": "prettier ./scss --check",
+    "lint:fix": "prettier ./scss --write --log-level warn",
     "release": "replugged release"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "@parcel/config-default": "^2.9.2",
-    "@parcel/core": "^2.9.2",
-    "@parcel/transformer-sass": "^2.9.2",
-    "@types/node": "^18.16.17",
-    "prettier": "^2.8.8",
-    "replugged": "^4.6.0"
+  "type": "module",
+  "dependencies": {
+    "@parcel/config-default": "^2.9.3",
+    "@parcel/core": "^2.9.3",
+    "@parcel/transformer-sass": "^2.9.3",
+    "@types/node": "^20.6.2",
+    "prettier": "^3.0.3",
+    "replugged": "^4.6.3",
+    "salt-bd-scss": "^1.1.0"
   }
 }
