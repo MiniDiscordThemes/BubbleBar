@@ -1,4 +1,4 @@
-.chatContent-3KubbW {
+:is(.chatContent-3KubbW, .chatContent-2O4SXb) {
     .jumpToPresentBar-1cEnH0 {
         // i should probably redo this
         display: block;
@@ -31,14 +31,14 @@
             }
         }
     }
-    .form-3gdLxP {
+    :is(.form-3gdLxP, .form-3qe0Ni) {
         margin: 0;
         padding: 0;
         border-top: 1px solid var(--channeltextarea-border);
         &::before {
             display: none;
         }
-        .channelTextArea-1FufC0 {
+        :is(.channelTextArea-1FufC0, .channelTextArea-1deLlK) {
             margin: 0;
             padding: 0;
             .attachedBars-2BCP3l {
