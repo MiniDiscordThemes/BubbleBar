@@ -1,21 +1,21 @@
-.chatContent__5dca8 {
-    .jumpToPresentBar__0ff7f {
+.chatContent_f087cb {
+    .jumpToPresentBar__69174 {
         // i should probably redo this
         display: block;
         left: calc(100% - 50px);
         width: 0;
         height: 0;
         bottom: 50px;
-        .barButtonMain__0f5c6,
+        .barButtonMain__984b4,
         .spinner-2RT7ZC {
             display: none;
         }
-        .barButtonAlt__4b48f {
+        .barButtonAlt_e800ef {
             top: 0;
             width: 0;
             height: 0;
             font-size: 0;
-            .barButtonIcon__907ef {
+            .barButtonIcon__8b27d {
                 z-index: 100;
                 position: absolute;
                 display: unset;
@@ -31,62 +31,62 @@
             }
         }
     }
-    .form__13a2c {
+    .form_d8a4a1 {
         margin: 0;
         padding: 0;
         border-top: 1px solid var(--channeltextarea-border);
         &::before {
             display: none;
         }
-        .channelTextArea__2e60f {
+        .channelTextArea_c2094b {
             margin: 0;
             padding: 0;
-            .attachedBars_da3c74 {
+            .attachedBars_c1606a {
                 border-radius: 0;
                 background-color: var(--background-secondary-alt);
-                .replyBar_b64d74,
-                .threadSuggestionBar_b633f7 {
+                .replyBar_ed6afc,
+                .threadSuggestionBar__717a3 {
                     background-color: transparent;
                 }
             }
-            .channelAttachmentArea__740bf {
+            .channelAttachmentArea__5e46a {
                 margin-top: -11px;
                 margin-bottom: 5px;
                 margin-left: 0;
-                + .divider_b9338f {
+                + .divider__855e3 {
                     display: none;
                 }
-                .wrapper_c727b6 {
+                .wrapper__4e6b6 {
                     background-color: var(--background-floating);
                 }
             }
-            .scrollableContainer__33e06 {
+            .scrollableContainer_ff917f {
                 padding: 15px;
                 overflow-y: unset;
                 .inner__9fd0b {
                     padding-left: 0;
                     width: 100%;
-                    .buttons_ce5b56 {
+                    .buttons__7ecff {
                         > button ~ .expression-picker-chat-input-button:not(:nth-child(4)) {
                             display: none;
                         }
-                        .emojiButton__8ff6a {
+                        .emojiButton__176c8 {
                             display: flex !important;
                             order: -1;
                             position: absolute;
                             left: -50px;
-                            .button_afdfd9 {
+                            .button__581d0 {
                                 background-color: transparent;
                             }
                         }
-                        .separator__8424b {
+                        .separator__666aa {
                             margin: 0;
                             &::before {
                                 display: none;
                             }
-                            .button_afdfd9 {
+                            .button__581d0 {
                                 margin-right: 0;
-                                .innerButton_debeee {
+                                .innerButton__9efb8 {
                                     margin-left: 2px;
                                     margin-right: 0;
                                     transition: background-color 200ms ease;
@@ -111,16 +111,16 @@
                             }
                         }
                     }
-                    .attachButton_eba568 {
-                        .attachButtonPlus_bf89ca {
+                    .attachButton__5f6dc {
+                        .attachButtonPlus_fd0021 {
                             d: path("M10.6667 4V10.6667H4V13.3333H10.6667V20H13.3333V13.3333H20V10.6667H13.3333V4H10.6667Z");
                             fill: var(--channeltextarea-button-icon);
                         }
-                        .attachButtonPlay_edf919 {
+                        .attachButtonPlay__6ccc4 {
                             display: none;
                         }
                     }
-                    .characterCount_e55010 {
+                    .characterCount__7e076 {
                         right: unset;
                         bottom: 0;
                         left: 15px;
@@ -137,7 +137,7 @@
             background-color: var(--background-secondary-alt);
         }
     }
-    .scrollerSpacer__9cd32 {
+    .scrollerSpacer__6b1b6 {
         height: 25px;
     }
 }
