@@ -22,6 +22,8 @@
 [![Replugged GitHub downloads][shield-asar-dl]][release-rp-gh]
 [![Total repository size][shield-repo-size]][github]
 
+***A nice, rounded, bubbly chatbar.***
+
 ![Bubble Bar applied to Discord][screenshot]
 
 ## Installation
@@ -42,7 +44,7 @@
 ## Credits
 ### Sources
 [bubblebar]:    https://github.com/discord-extensions/bubble-bar
-- [Bubble Bar][original] by [Discord Extensions](https://github.com/discord-extensions) ([LuckFire](https://github.com/LuckFire)) - MIT license
+- [Bubble Bar][bubblebar] by [Discord Extensions](https://github.com/discord-extensions) ([LuckFire](https://github.com/LuckFire)) - MIT license
 
 ## Questions or suggestions?
 - Post [an issue][issues] on GitHub.
