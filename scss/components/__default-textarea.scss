@@ -1,30 +1,30 @@
-.base_c0676e {
-    .channelTextArea__626ee,
-    .channelTextArea_c2094b,
-    .scrollableContainer_ff917f {
+.base_a4d4d9 {
+    .channelTextArea_d5deea,
+    .channelTextArea_a7d72e,
+    .scrollableContainer_d0696b {
         background-color: transparent;
     }
-    .channelTextArea__648e5 {
-        .inner__9fd0b:not(.mainCard__0ec2c .inner__9fd0b) {
+    .channelTextArea_d0696b {
+        .inner_d0696b:not(.mainCard_a6d69a .inner_d0696b) {
             margin-right: -5px;
-            .textArea_a86690 {
+            .textArea_d0696b {
                 margin-right: 5px;
                 border-radius: var(--channeltextarea-rounding);
                 background-color: var(--channeltextarea-background);
-                .fontSize16Padding_bcbeae {
+                .fontSize16Padding_d0696b {
                     left: 16px;
                     padding-left: 0;
                 }
-                .slateTextArea_b19976 {
+                .slateTextArea_e52116 {
                     margin-right: 44px;
                     caret-color: var(--channeltextarea-caret);
                     border-radius: var(--channeltextarea-rounding);
                 }
             }
-            .buttons__7ecff {
+            .buttons_d0696b {
                 margin-right: 0;
             }
-            .button__581d0 {
+            .button_dd4f85 {
                 width: 44px;
                 height: 44px;
                 margin-right: 5px;
@@ -37,10 +37,10 @@
                 &:active:not([disabled]) {
                     background-color: var(--channeltextarea-button-hover);
                 }
-                &.emojiButton_b63c38 {
+                &.emojiButton_d0696b {
                     background-color: transparent;
                 }
-                .sprite__294b3 {
+                .sprite_af14ca {
                     --custom-emoji-sprite-bg-size: 24px;
                     margin-bottom: 2px;
                     background: var(--channeltextarea-button-icon) none;

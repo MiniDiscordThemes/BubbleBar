@@ -1,21 +1,21 @@
-.chatContent_f087cb {
-    .jumpToPresentBar__69174 {
+.chatContent_a7d72e {
+    .jumpToPresentBar_cf58b5 {
         // i should probably redo this
         display: block;
         left: calc(100% - 50px);
         width: 0;
         height: 0;
         bottom: 50px;
-        .barButtonMain__984b4,
+        .barButtonMain_cf58b5,
         .spinner-2RT7ZC {
             display: none;
         }
-        .barButtonAlt_e800ef {
+        .barButtonAlt_cf58b5 {
             top: 0;
             width: 0;
             height: 0;
             font-size: 0;
-            .barButtonIcon__8b27d {
+            .barButtonIcon_cf58b5 {
                 z-index: 100;
                 position: absolute;
                 display: unset;
@@ -31,62 +31,62 @@
             }
         }
     }
-    .form_d8a4a1 {
+    .form_a7d72e {
         margin: 0;
         padding: 0;
         border-top: 1px solid var(--channeltextarea-border);
         &::before {
             display: none;
         }
-        .channelTextArea_c2094b {
+        .channelTextArea_a7d72e {
             margin: 0;
             padding: 0;
-            .attachedBars_c1606a {
+            .attachedBars_d0696b {
                 border-radius: 0;
                 background-color: var(--background-secondary-alt);
-                .replyBar_ed6afc,
-                .threadSuggestionBar__717a3 {
+                .replyBar_b11c5e,
+                .threadSuggestionBar_b11c5e {
                     background-color: transparent;
                 }
             }
-            .channelAttachmentArea__5e46a {
+            .channelAttachmentArea_e8c527 {
                 margin-top: -11px;
                 margin-bottom: 5px;
                 margin-left: 0;
-                + .divider__855e3 {
+                + .divider_fc5f50 {
                     display: none;
                 }
-                .wrapper__4e6b6 {
+                .wrapper_ef319f {
                     background-color: var(--background-floating);
                 }
             }
-            .scrollableContainer_ff917f {
+            .scrollableContainer_d0696b {
                 padding: 15px;
                 overflow-y: unset;
-                .inner__9fd0b {
+                .inner_d0696b {
                     padding-left: 0;
                     width: 100%;
-                    .buttons__7ecff {
+                    .buttons_d0696b {
                         > button ~ .expression-picker-chat-input-button:not(:nth-child(4)) {
                             display: none;
                         }
-                        .emojiButton__176c8 {
+                        .emojiButton_af14ca {
                             display: flex !important;
                             order: -1;
                             position: absolute;
                             left: -50px;
-                            .button__581d0 {
+                            .button_dd4f85 {
                                 background-color: transparent;
                             }
                         }
-                        .separator__666aa {
+                        .separator_a06035 {
                             margin: 0;
                             &::before {
                                 display: none;
                             }
-                            .button__581d0 {
+                            .button_dd4f85 {
                                 margin-right: 0;
-                                .innerButton__9efb8 {
+                                .innerButton_a06035 {
                                     margin-left: 2px;
                                     margin-right: 0;
                                     transition: background-color 200ms ease;
@@ -111,16 +111,16 @@
                             }
                         }
                     }
-                    .attachButton__5f6dc {
-                        .attachButtonPlus_fd0021 {
+                    .attachButton_d0696b {
+                        .attachButtonPlus_f298d4 {
                             d: path("M10.6667 4V10.6667H4V13.3333H10.6667V20H13.3333V13.3333H20V10.6667H13.3333V4H10.6667Z");
                             fill: var(--channeltextarea-button-icon);
                         }
-                        .attachButtonPlay__6ccc4 {
+                        .attachButtonPlay_f298d4 {
                             display: none;
                         }
                     }
-                    .characterCount__7e076 {
+                    .characterCount_b82429 {
                         right: unset;
                         bottom: 0;
                         left: 15px;
@@ -128,7 +128,7 @@
                 }
             }
         }
-        .typing__6fd1d {
+        .typing_d7ebeb {
             top: -24px;
             right: 0;
             left: 0;
@@ -137,7 +137,7 @@
             background-color: var(--background-secondary-alt);
         }
     }
-    .scrollerSpacer__6b1b6 {
+    .scrollerSpacer_e2e187 {
         height: 25px;
     }
 }
