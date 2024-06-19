@@ -1,16 +1,8 @@
-[banner]:           https://cdn.discordapp.com/attachments/1142305515439923260/1142314084226842644/banner.png
+[screenshot]:       https://minidiscordthemes.github.io/BubbleBar/preview/bar.png
 
 [discord]:          https://discord.gg/uy8nKQVatp
 
-[BetterDiscord]:    https://betterdiscord.app/
 [Replugged]:        https://replugged.dev/
-[Vencord]:          https://github.com/Vendicated/Vencord
-[Stylus]:           https://github.com/openstyles/stylus
-
-[bd-icon]:          https://discord-extensions.github.io/assets/icons/betterdiscord.png
-[rp-icon]:          https://discord-extensions.github.io/assets/icons/replugged.png
-[vc-icon]:          https://discord-extensions.github.io/assets/icons/vencord.gif
-[stylus-icon]:      https://discord-extensions.github.io/assets/icons/stylus.png
 
 [shield-donate]:    https://img.shields.io/badge/Donate-ko--fi-orange?style=flat-square&logo=kofi&logoColor=orange
 [ko-fi]:            https://ko-fi.com/saltssaumure "Buy me a coffee!"
@@ -30,11 +22,10 @@
 [![Replugged GitHub downloads][shield-asar-dl]][release-rp-gh]
 [![Total repository size][shield-repo-size]][github]
 
-![Bubble Bar banner][banner]
+![Bubble Bar applied to Discord][screenshot]
 
 ## Installation
-
-### ![Replugged][rp-icon] **[Replugged][Replugged]**
+### [Replugged][Replugged]
 #### Automatic
 1. Click to install:
     - [Replugged store][release-rp]
@@ -45,9 +36,6 @@
     - `Settings` > `Replugged` > `Themes` > `Open Themes Folder`
 3. Click `Load Missing Themes` and toggle on the theme card.
 
-### ![BetterDiscord icon][bd-icon] **[BetterDiscord][BetterDiscord]**, ![Vencord icon][vc-icon] **[Vencord][Vencord]**, ![Stylus icon][stylus-icon] **[Stylus][Stylus]**
-See [LuckFire][original-author]'s original [BubbleBar repository][original] for installation instructions.
-
 ## License
 [MIT license][license]
 
@@ -57,10 +45,5 @@ See [LuckFire][original-author]'s original [BubbleBar repository][original] for 
 - [Bubble Bar][original] by [Discord Extensions](https://github.com/discord-extensions) ([LuckFire](https://github.com/LuckFire)) - MIT license
 
 ## Questions or suggestions?
-### Replugged related
 - Post [an issue][issues] on GitHub.
 - Post in `#theme-support` on [my support server][discord].
-
-### BetterDiscord, Vencord, Stylus related
-- Post [an issue][original-issues] on the original GitHub.
-- Join [LuckFire][original-author]'s [support server][original-discord].
