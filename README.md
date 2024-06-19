@@ -22,12 +22,6 @@
 [issues]:           https://github.com/MiniDiscordThemes/BubbleBar/issues
 [license]:          https://github.com/MiniDiscordThemes/BubbleBar/blob/main/LICENSE
 
-[original]:         https://github.com/discord-extensions/bubble-bar
-[original-author]:  https://github.com/LuckFire
-[original-license]: https://github.com/discord-extensions/bubble-bar/blob/master/LICENSE
-[original-issues]:  https://github.com/discord-extensions/bubble-bar/issues
-[original-discord]: https://discord.gg/vYdXbEzqDs
-
 [release-rp]:       https://replugged.dev/store/dev.LuckFire.BubbleBar "Replugged store page"
 [release-rp-gh]:    https://github.com/MiniDiscordThemes/BubbleBar/releases/latest/download/dev.LuckFire.BubbleBar.asar "Get latest release"
 
@@ -55,10 +49,12 @@
 See [LuckFire][original-author]'s original [BubbleBar repository][original] for installation instructions.
 
 ## License
-[MIT License][license]
+[MIT license][license]
 
-### Includes
-- [Bubble Bar][original] by [LuckFire][original-author] - [MIT License][original-license]
+## Credits
+### Sources
+[bubblebar]:    https://github.com/discord-extensions/bubble-bar
+- [Bubble Bar][original] by [Discord Extensions](https://github.com/discord-extensions) ([LuckFire](https://github.com/LuckFire)) - MIT license
 
 ## Questions or suggestions?
 ### Replugged related
