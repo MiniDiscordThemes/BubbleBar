@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "type": "replugged-theme",
-  "main": "scss/main.scss",
+  "main": "scss/bubble.scss",
   "source": "https://github.com/MiniDiscordThemes/BubbleBar",
   "image": "https://minidiscordthemes.github.io/BubbleBar/preview/bar.png"
 }
